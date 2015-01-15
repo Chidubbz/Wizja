@@ -1,0 +1,58 @@
+#AdminHomePage {
+	display: block;
+	width: 250px;
+}
+
+div li button {
+	border-radius:25%;
+	text-align:center;
+	width:250px;
+	opacity:0.80;
+}
+
+button:hover {
+    opacity:1.0;
+	color: blue;
+}
+
+.create {
+	width: 300px;
+	background-image: url("logo.png");
+	align: center;
+}
+
+.create background-image {
+	display:block;
+	width: 250px;
+}
+
+#login {
+	position:absolute;
+	top:300px;
+	left:35px;
+	border:10px 10px 10px 10px;
+	height:50px 50px 50px 50px;
+	width: 100%;
+}
+
+li {
+	list-style-type:none;
+}
+
+#navbar {
+	left: -200px;
+	width: 250px;
+	display: inline;
+}
+
+#navbar img {
+	left:-200px;
+	float: left;
+	height: 30px;
+	width: 30px;
+	display: inline;
+}
+
+#slide {
+	left: -200px;
+}

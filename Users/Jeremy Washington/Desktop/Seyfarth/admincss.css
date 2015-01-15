@@ -1,0 +1,87 @@
+#AdminHomePage {
+	display: block;
+	width: 250px;
+}
+
+a:visited {
+	outline;
+	color:yellow;
+}
+
+button:hover {
+    opacity:1.0;
+	color: blue;
+}
+
+.create {
+	width: 300px;
+	background-image: url("logo.png");
+	align: center;
+}
+
+.create background-image {
+	display:block;
+	width: 250px;
+}
+
+div li button {
+	border-radius:25%;
+	text-align:center;
+	width:250px;
+	opacity:0.80;
+}
+
+#election {
+	align: center;
+	width: 75%;
+	height: 100%;
+	border-style: solid;
+    border-width: 5px;
+	border-radius: 25%;
+	padding:5% 5% 5% 5%;
+	margin:5%;
+}
+
+#electioncontainer {
+	align: center;
+	width: 90%;
+	height: 100%;
+	padding:2.5%
+	margin:2.5%;
+}
+
+#election input {
+	width:50%;
+	float:left;
+	display:inline-block;
+}
+
+#login {
+	position:absolute;
+	top:300px;
+	left:35px;
+	border:10px 10px 10px 10px;
+	height:50px 50px 50px 50px;
+	width: 100%;
+}
+
+li {
+	list-style-type:none;
+}
+
+#navbar {
+	left: -200px;
+	width: 250px;
+	display: inline;
+}
+
+#navbar img {
+	float: left;
+	height: 30px;
+	width: 30px;
+	display: inline;
+}
+
+#slide {
+	left: -200px;
+}
