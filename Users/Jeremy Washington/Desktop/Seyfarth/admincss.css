@@ -1,3 +1,7 @@
+body{
+	margin:auto;
+	text-align: center;
+}
 #AdminHomePage {
 	display: block;
 	width: 250px;
@@ -76,12 +80,17 @@ li {
 }
 
 #navbar img {
-	float: left;
+	float: left !important;
 	height: 30px;
 	width: 30px;
 	display: inline;
+
+}
+button{
+	float: left;
 }
 
 #slide {
 	left: -200px;
 }
+#vq{display: block;}
